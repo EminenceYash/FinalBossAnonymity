@@ -1,6 +1,6 @@
 # FinalBossAnonymity
 Tails OS is like the final boss of anonymity. It’s designed to leave no trace, route everything through Tor, and even wipes memory on shutdown.
-# 🧊 Why Use Tails OS Over Any other OS (Including KALI ) 
+# 🧊 Why Use Tails OS Over Any other OS (Including KALI) 
  - this info can give you nothing if you're on blackarch (I know you're too advanced and if you're using 13+ custom kernel don't even ask something)
 
 ## 🔒 Total Anonymity
@@ -45,7 +45,9 @@ Tails OS is like the final boss of anonymity. It’s designed to leave no trace,
 ## 🛠 Want to Install Tails?
 
 Visit: [https://tails.net/install/](https://tails.net/install/)
-
+Download [Balena Etcher](https://etcher.balena.io), then open it and flash your downloaded tails os iso in a pendrive.
+Go to BIOS and change boot option to your pendrive and then boot into it and rest is pretty ez just follow instructions and do as it says.
+For any issues ask me :)
 > Recommended: Use a second USB to enable **encrypted persistent storage**.
 
 ---
