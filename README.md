@@ -44,7 +44,7 @@ Tails OS is like the final boss of anonymity. It’s designed to leave no trace,
 
 ## 🛠 Want to Install Tails?
 
-Visit: [https://tails.net/install/](https://tails.net/install/)
+Visit: [Tails](https://tails.net/install/)
 Download [Balena Etcher](https://etcher.balena.io), then open it and flash your downloaded tails os iso in a pendrive.
 Go to BIOS and change boot option to your pendrive and then boot into it and rest is pretty ez just follow instructions and do as it says.
 For any issues ask me :)
